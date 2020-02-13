@@ -11,6 +11,9 @@ There are two components to this applet
 
 You can use the [provided bundle](https://github.com/jechasteen/HostBattery/releases), or clone and build the xcode project on the vm.
 
+*Be aware* that in the current build, the client's router IP is hard-coded to `10.0.2.2`.
+Using the client app with a different network configuration is undefined.
+
 - The macOS build process has not been tested on any other machines besides my own, a High Sierra vm created using [macOS-Simple-KVM](https://github.com/foxlet/macOS-SimpleKVM) running Xcode 10.0
 
 ## Installation procedure
