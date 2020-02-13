@@ -14,7 +14,7 @@ You can use the [provided bundle](https://github.com/jechasteen/HostBattery/rele
 *Be aware* that in the current build, the client's router IP is hard-coded to `10.0.2.2`.
 Using the client app with a different network configuration is undefined.
 
-- The macOS build process has not been tested on any other machines besides my own, a High Sierra vm created using [macOS-Simple-KVM](https://github.com/foxlet/macOS-SimpleKVM) running Xcode 10.0
+- The macOS build process has not been tested on any other machines besides my own, a High Sierra vm created using [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) running Xcode 10.0
 
 ## Installation procedure
 
